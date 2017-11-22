@@ -1,6 +1,6 @@
 class Person
   def name(name)
-    p @name
+    @name
   end
 
   def name=(new_name)
